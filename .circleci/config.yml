@@ -6,4 +6,4 @@ jobs:
                 steps:
                 - run:
                         name: Hello World
-                        command: echo "Hello World circleci, more changes"
+                        command: echo "Hello World circleci"
